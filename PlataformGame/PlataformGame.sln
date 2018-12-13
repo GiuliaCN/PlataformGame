@@ -1,12 +1,30 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlataformGame.Plugins", "PlataformGame.Plugins.csproj", "{F4E15832-C136-222F-AB05-68A824A41C07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlataformGame", "PlataformGame.csproj", "{0B085D0F-14C1-9E28-7699-B65351983B75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlataformGame.Editor.Plugins", "PlataformGame.Editor.Plugins.csproj", "{1D5DF5C7-9FF4-FD5A-A8C9-E0F9D370DD0F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4E15832-C136-222F-AB05-68A824A41C07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4E15832-C136-222F-AB05-68A824A41C07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4E15832-C136-222F-AB05-68A824A41C07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4E15832-C136-222F-AB05-68A824A41C07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B085D0F-14C1-9E28-7699-B65351983B75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B085D0F-14C1-9E28-7699-B65351983B75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B085D0F-14C1-9E28-7699-B65351983B75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B085D0F-14C1-9E28-7699-B65351983B75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D5DF5C7-9FF4-FD5A-A8C9-E0F9D370DD0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D5DF5C7-9FF4-FD5A-A8C9-E0F9D370DD0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D5DF5C7-9FF4-FD5A-A8C9-E0F9D370DD0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D5DF5C7-9FF4-FD5A-A8C9-E0F9D370DD0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
